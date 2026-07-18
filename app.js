@@ -50,6 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize UI
     updateUI();
     renderHistory();
+    generatePassword();
 
     // Event Listeners
     lengthSlider.addEventListener('input', (e) => {
