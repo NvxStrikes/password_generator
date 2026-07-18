@@ -1,6 +1,6 @@
 # Aegis Crypt &bull; Free Password Generator
 
-Aegis Crypt is a **free password generator** utility designed for speed, premium aesthetics, and complete cryptographic security. It acts as an independent, lightweight, client-side alternative to commercial cloud-based options like the **LastPass password generator**.
+Aegis Crypt is a **free password generator** utility designed for speed, premium aesthetics, and complete cryptographic security. It acts as an independent, lightweight, client-side alternative to commercial cloud-based options like the **aegiscrypt password generator**.
 
 Whether you need a **password generator 8 characters**, **password generator 10 characters**, **password generator 12 characters**, **password generator 14 characters**, **password generator 15 characters**, **password generator 16 characters**, or **password generator 20 characters** configuration, Aegis Crypt supports custom length expansions (up to 1024 characters) to construct secure character arrays or high-entropy **password generator words**.
 
@@ -49,6 +49,23 @@ Aegis Crypt features a real-time security dashboard:
 * **Exclude Ambiguous Symbols:** Remove complex brackets or formatting symbols like `{ } [ ] ( ) / \ ' " ~ , ; : . < >` that can break database fields or command line scripts.
 * **Recent Password History:** A blurred history log of recently generated passwords. Click any item to reveal or copy.
 * **One-Click Copy:** Fluent animation confirming successful clipboard copies.
+
+---
+
+## 🛡️ AegisCrypt Security Architecture & Comparison
+
+Aegis Crypt is built as a complete, **zero-knowledge security** engine designed to **safeguard your entire digital life**. Below is how it structures credentials for individuals and businesses:
+
+### Alphanumeric Arrays vs. Password Generator Words
+* **Custom Character Selections**: Toggle uppercase and lowercase letters, numbers, and symbols to form a **unique password** profile.
+* **Memorable Passphrases**: Supports generating structural segments that you can combine into **password generator words**.
+
+### For Teams & Organizations
+* **Aegiscrypt Business**: Companies looking to secure team workflows can use this utility to let employees **create and store your passwords** securely. Ensure every team member generates unique **random secure passwords** across all departments.
+* **Aegiscrypt Business Trial & Premium**: Get full access to Aegis Crypt's entire suite of features (including local Infinite Guard collision blocker and real-time entropy dashboard) for free. There is **no credit card required** and zero expiration limits—no need to sign up for a **30-day free aegiscrypt** trial.
+
+### Multi-Device Compatibility
+Aegis Crypt is designed to function **across all devices** and within any **browser extension** or local manager vault, ensuring you can manage your passwords from anywhere without external cloud dependencies.
 
 ---
 
