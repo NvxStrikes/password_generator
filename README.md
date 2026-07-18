@@ -1,8 +1,10 @@
-# Aegis Crypt &bull; Secure Password Generator
+# Aegis Crypt &bull; Free Password Generator
 
-Aegis Crypt is a premium, high-performance, single-page password generation utility. Built with vanilla HTML5, CSS3, and JavaScript, it is designed for speed, beautiful aesthetics, and absolute cryptographic security.
+Aegis Crypt is a **free password generator** utility designed for speed, premium aesthetics, and complete cryptographic security. It acts as an independent, lightweight, client-side alternative to commercial cloud-based options like the **LastPass password generator**.
 
-The interface is built around a custom glassmorphic slate color scheme (`#000000`, `#233D4D`, `#FE7F2D`, `#EAECF0`), prioritizing sleek readability, dynamic micro-interactions, and premium hover effects.
+Whether you need a **password generator 8 characters**, **password generator 10 characters**, **password generator 12 characters**, **password generator 14 characters**, **password generator 15 characters**, **password generator 16 characters**, or **password generator 20 characters** configuration, Aegis Crypt supports custom length expansions (up to 1024 characters) to construct secure character arrays or high-entropy **password generator words**.
+
+The interface is built around a custom glassmorphic slate color theme (`#000000`, `#233D4D`, `#FE7F2D`, `#EAECF0`), prioritizing sleek readability, dynamic micro-interactions, and premium hover effects.
 
 ---
 

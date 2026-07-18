@@ -757,6 +757,79 @@ label {
     font-size: 0.85rem;
 }
 
+/* FAQ Card */
+.faq-card {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.faq-header h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.faq-item {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid var(--glass-border);
+    border-radius: 10px;
+    padding: 2px;
+    transition: var(--transition-quick);
+    overflow: hidden;
+}
+
+.faq-item:hover {
+    border-color: rgba(234, 236, 240, 0.15);
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.faq-item summary {
+    padding: 12px 14px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--text-main);
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    transition: var(--transition-quick);
+}
+
+.faq-item summary:hover {
+    color: var(--accent);
+}
+
+.faq-content {
+    padding: 0 14px 12px 14px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+    border-top: 1px solid rgba(234, 236, 240, 0.03);
+    margin-top: 4px;
+    padding-top: 8px;
+}
+
+.faq-content strong {
+    color: var(--accent);
+}
+
+.faq-content ul {
+    margin-top: 8px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.faq-content li {
+    font-size: 0.78rem;
+}
+
 /* Footer Section */
 .app-footer {
     text-align: center;
