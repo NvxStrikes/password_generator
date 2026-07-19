@@ -727,6 +727,12 @@ label {
     font-family: var(--font-sans);
 }
 
+.history-right-group {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
 .history-item-actions {
     display: flex;
     gap: 8px;

@@ -368,15 +368,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="history-pass-wrapper" title="Hover to reveal password">
                     ${pass}
                 </div>
-                <div class="history-meta">
-                    Len: ${pass.length}
-                </div>
-                <div class="history-item-actions">
-                    <button class="item-action-btn copy-item-btn" title="Copy password">
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M8 10H16M8 14H14M19 11V17C19 18.1046 18.1046 19 17 19H7C5.89543 19 5 18.1046 5 17V7C5 5.89543 5.89543 5 7 5H13M19 11L13 5M19 11H15C13.8954 11 13 10.1046 13 9V5" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    </button>
+                <div class="history-right-group">
+                    <div class="history-meta">
+                        Len: ${pass.length}
+                    </div>
+                    <div class="history-item-actions">
+                        <button class="item-action-btn copy-item-btn" title="Copy password">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M8 10H16M8 14H14M19 11V17C19 18.1046 18.1046 19 17 19H7C5.89543 19 5 18.1046 5 17V7C5 5.89543 5.89543 5 7 5H13M19 11L13 5M19 11H15C13.8954 11 13 10.1046 13 9V5" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </button>
+                    </div>
                 </div>
             `;
             
